@@ -1,1 +1,1 @@
-1. [Week 1](supervised_learning/week 1/README.MD)
+1. [Week 1](supervised_learning/week1/README.MD)
